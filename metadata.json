@@ -1,0 +1,8 @@
+{
+  "name": "EduSphere SIS",
+  "description": "A modern, AI-powered Student Information System featuring student management, course catalogs, and Gemini-powered image editing tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
